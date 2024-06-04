@@ -84,6 +84,7 @@ padding: 10px;
   font-size: 18px; */
   color: white;
 }
+
 .btn-hire{
     /* padding: 15px 35px;
   border: none;
@@ -120,6 +121,7 @@ padding: 10px;
     width: 50%;
     padding: 10px;
 }
+/* author */
 .author-details{
     display: flex;
    align-items: center;
