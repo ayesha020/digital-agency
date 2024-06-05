@@ -73,7 +73,7 @@ padding: 10px;
 .btn{
     padding: 15px 35px;
   border: none;
-  border-radius: 5px;
+  border-radius: 10px;
   font-size: 18px;  
 }
 .btn-discover{
@@ -175,3 +175,26 @@ padding: 10px;
     width: 50%;
 }
 
+.call-icn{
+   width: 80px; 
+}
+.phone-call{
+    display: flex;
+}
+
+.appointment-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 75%;
+    background-color: red;
+    padding: 10px;
+    color: white;
+    margin: auto;
+    border-radius: 25px;
+    margin-top: -70px;
+}
+.appointment-description{
+    width: 75%;
+    
+}
